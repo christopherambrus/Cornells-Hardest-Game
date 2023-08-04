@@ -1,0 +1,3 @@
+opam install Graphics
+sudo apt install libpng-dev libjpeg-dev libtiff-dev libxpm-dev libfreetype-dev libgif-dev
+opam install camlimages
