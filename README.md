@@ -8,3 +8,4 @@ make play (within project directory)
 How to Run Tests:
 make test
 
+The final project was created for CS3110 at Cornell University. 
